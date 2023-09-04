@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
 <h3 align="center">A Cybersecurity enthusiast focusing on offensive development and red teaming.</h3>
 
-- 🌱 I’m currently learning: **C, C++ language; Pentest tools; Cybersecurity**
+- 🌱 I’m currently learning: **C, C++ language; Pentest tools; Cybersecurity.**
 
-- 📫 How to reach me **nicolastosin@gmail.com**
+- 📫 How to reach me: **nicolastosin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
